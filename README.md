@@ -1,0 +1,2 @@
+# Quizifyy
+Basic JS quiz
